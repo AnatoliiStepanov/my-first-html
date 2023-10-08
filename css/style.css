@@ -1,0 +1,228 @@
+.shapka {
+    width: 100%x;
+    height: 60px;
+    flex-shrink: 0;
+    border: 1px solid #C1C1C1;
+    background: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.frame1 {
+    position: absolute;
+    margin-left: 337px;
+}
+.frame2 {
+    position: absolute;
+    margin-left: 438px;
+}
+.frame3 {
+    position: absolute;
+    margin-left: 540px;
+}
+.bigtextleft {
+    width: 625px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+}
+.whitebackgroundbigtext {
+    width: 550px;
+    height: 60px;
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+.bigtextright {
+    width: 553px;
+    height: 60px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+}
+.logistica {
+    margin-left: 48px;
+    width: 102px;
+    height: 20px;
+    flex-shrink: 0;
+        color: #4FBDDF;
+        font-family: Raleway;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    
+}
+.shiptrack {
+    margin-left: 66px;
+    width: 133px;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+.offering {
+    margin-left: 34px;
+    width: 57px;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+.company {
+    margin-left: 39px;
+    width: 66px;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+.getstarted {
+    border-radius: 8px;
+    background: #4FBDDF;
+    width: 202px;
+    height: 37px;
+    color: #FFF;
+    margin-left: 21px;
+    margin-right: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+        color: #FFF;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+.planetka {
+    width: 25px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 21px;
+}
+.contacts {
+    margin-right: 34px;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+.request {
+    margin-right: 44px;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+.item {
+    width: 100%;
+    height: 101%;
+    flex-shrink: 0;
+    background: rgba(0, 0, 0, 0.60);
+    position: absolute;
+    top: 59px;
+    left: 0;
+}
+.largestlogistic {
+    position: absolute;
+    top: 129px;
+    left: 216px;
+    right: 629px;
+        color: #fff;
+        font-family: Raleway;
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: normal;
+            z-index: 101;
+}
+.centralasia {
+    position: absolute;
+    top: 200px;
+    left: 216px;
+    right: 629px;
+        color: #1ECAFF;
+        font-family: Raleway;
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: normal;
+            z-index: 101;
+}
+.iwantto {
+    position: absolute;
+    top: 264px;
+    left: 224px;
+    margin-top: 16px;
+        color: #FFF;
+        font-family: Raleway;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+            z-index: 101;
+}
+.tracking {
+    position: absolute;
+    top: 264px;
+    left: 224px;
+    margin-top: 16px;
+    margin-left: 67px;
+        color: #FF4EA3;
+        font-family: Raleway;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+            z-index: 101;
+}
+.searching {
+    position: absolute;
+    top: 272px;
+    left: 216px;
+    margin-top: 35px;
+    width: 659px;
+    height: 27px;
+    flex-shrink: 0;
+        border-radius: 4px;
+        border: 1px solid #C1C1C1;
+        background: #FFF;
+            z-index: 101;
+}
+.example {
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+    margin-left: 8px;
+        color: #C1C1C1;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+            z-index: 101;
+}
+.frame7 {
+    position: absolute;
+    top: 272px;
+    left: 884px;
+    margin-top: 35px;
+    width: 659px;
+    height: 27px;
+    flex-shrink: 0;
+        z-index: 101;
+}
